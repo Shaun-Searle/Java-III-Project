@@ -1,0 +1,4 @@
+--patch-module
+MediaPlayer=_
+--add-reads
+MediaPlayer=ALL-UNNAMED

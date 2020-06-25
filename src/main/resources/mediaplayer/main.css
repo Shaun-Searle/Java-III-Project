@@ -1,0 +1,34 @@
+.toggle-button {
+    -fx-graphic: url('play.png');
+
+    -fx-background-color:  #000000;
+
+  }
+  
+  .toggle-button:selected {
+    -fx-graphic: url('pause.png');
+  }
+
+  #btnNext {
+    -fx-graphic: url('nexttrack.png');
+
+    -fx-background-color:  #000000;
+  }
+
+  #btnPrev {
+    -fx-graphic: url('previoustrack.png');
+
+    -fx-background-color:  #000000;
+  }
+
+  #btnSkipEnd {
+    -fx-graphic: url('skipend.png');
+
+    -fx-background-color:  #000000;
+  }
+
+  #btnSkipStart {
+    -fx-graphic: url('skipstart.png');
+
+    -fx-background-color:  #000000;
+  }
